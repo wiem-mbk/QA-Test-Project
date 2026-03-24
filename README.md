@@ -32,7 +32,7 @@ La fonctionnalité testée : **Login (connexion) d’un utilisateur** sur un sit
 3. **Exécution des tests** : suivi du statut Pass / Fail  
 4. **Documentation des anomalies** : création de bug reports détaillés  
 5. **Outils utilisés** :
-   - Microsoft Excel / Google Sheets pour cas de test et bug report
+   - Google Sheets pour cas de test et bug report
    - Navigateur Chrome pour exécution des tests manuels
 
 ---
